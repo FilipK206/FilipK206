@@ -5,6 +5,3 @@
 💻 I'm deeply fascinated by the world of data science, particularly in its applications in artificial intelligence, predictive analytics, and data-driven decision-making. I'm continuously refining my skills in data analysis, machine learning, and deep learning to contribute to this dynamic field.
 
 📫 Let's connect! Whether you want to chat about data science or related topics, feel free to reach out. I'm always excited to connect with fellow enthusiasts!
-
-![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipK206&show_icons=true&theme=radical)
-
